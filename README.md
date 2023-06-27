@@ -9,6 +9,9 @@ ___
 
 # [rafis lifeline blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305560771674112/rafis_lifeline_dt_blue_cursor.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019469152296/screenshot192.jpg?width=1202&height=676)
 
+# [Rafis but SZ lifeline version](https://cdn.discordapp.com/attachments/1001333207276462112/1123305562763952299/rafis_lifeline_bokura_dake.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123333962652201020/image.png?width=1202&height=676)
+
+
 # [rafis lifeline white cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561107206154/rafis_lifeline_dt_w.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306018936455269/screenshot193.jpg?width=1202&height=676)
 
 # [lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
