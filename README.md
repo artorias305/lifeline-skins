@@ -4,12 +4,12 @@ Skins lifeline uses
 ___
 # [Cursors he uses](https://cdn.discordapp.com/attachments/1001333207276462112/1123301976608886897/Cursors.zip)
 
-# [rafis lifeline](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561547604178/rafis_lifeline_dt.osk)![][https://media.discordapp.net/attachments/1001333207276462112/1123306019213295756/screenshot191.jpg?width=1202&height=676]
+# [rafis lifeline](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561547604178/rafis_lifeline_dt.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019213295756/screenshot191.jpg?width=1202&height=676)
 [other hitsound version](https://cdn.discordapp.com/attachments/1001333207276462112/1123305562243862568/rafis_lifeline_toc_toc.osk)
 
-# [rafis lifeline blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305560771674112/rafis_lifeline_dt_blue_cursor.osk)![][https://media.discordapp.net/attachments/1001333207276462112/1123306019469152296/screenshot192.jpg?width=1202&height=676]
+# [rafis lifeline blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305560771674112/rafis_lifeline_dt_blue_cursor.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019469152296/screenshot192.jpg?width=1202&height=676)
 
-# [rafis lifeline white cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561107206154/rafis_lifeline_dt_w.osk)![][https://media.discordapp.net/attachments/1001333207276462112/1123306018936455269/screenshot193.jpg?width=1202&height=676]
+# [rafis lifeline white cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561107206154/rafis_lifeline_dt_w.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306018936455269/screenshot193.jpg?width=1202&height=676)
 
 # [lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 [![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
