@@ -4,6 +4,8 @@ Skins lifeline uses
 ___
 # [Cursors he uses](https://cdn.discordapp.com/attachments/1001333207276462112/1123301976608886897/Cursors.zip)
 
+# [aristia blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1166543738034729030/aristia_lifeline.osk?ex=654adf84&is=65386a84&hm=e08f1aa2f032d518952ce9ad9082f49fc162c5b6675f612740026ccc4da45644&)![](https://cdn.discordapp.com/attachments/1001333207276462112/1166543738835849247/screenshot219.jpg?ex=654adf84&is=65386a84&hm=4eaf178aa7a23a80d4c011cb9a1683281bd0e00cbc3e1839e1210fc6ee34ebda&)
+
 # [rafis lifeline](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561547604178/rafis_lifeline_dt.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019213295756/screenshot191.jpg?width=1202&height=676)
 [other hitsound version](https://cdn.discordapp.com/attachments/1001333207276462112/1123305562243862568/rafis_lifeline_toc_toc.osk)
 
