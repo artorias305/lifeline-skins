@@ -16,6 +16,8 @@ ___
 
 # [rafis lifeline white cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561107206154/rafis_lifeline_dt_w.osk)![](https://media.discordapp.net/attachments/1001333207276462112/1123306018936455269/screenshot193.jpg?width=1202&height=676)
 
+# [gn 8 color rainbow boshyman edit](https://boshyman.s-ul.eu/aKv8tFO8)![](https://media.discordapp.net/attachments/1001333207276462112/1181223575227748433/image.png?ex=6580472e&is=656dd22e&hm=6572a4b52243698e2ae44550a4554acda9e85165f3060aa02401f9ad73673d76&=&format=webp&quality=lossless&width=1248&height=702)
+
 # [lifeline x Kristiyan subahibi](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 [![](https://i.imgur.com/ssg3v5Q.png)](https://github.com/rudj-skinhub/woal/raw/tyfh/xkristiyan/-_lifeline_x_Kristiyan_subahibi.osk)
 
