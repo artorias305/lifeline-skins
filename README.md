@@ -7,7 +7,7 @@ ___
 # [aristia blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1166543738034729030/aristia_lifeline.osk?ex=660cac04&is=65fa3704&hm=929b998bee2067a17a7130a8a55fd7f4e19d9683fecca3087d0e5e292d9059f7&)![](https://cdn.discordapp.com/attachments/1001333207276462112/1166543738835849247/screenshot219.jpg?ex=654adf84&is=65386a84&hm=4eaf178aa7a23a80d4c011cb9a1683281bd0e00cbc3e1839e1210fc6ee34ebda&)
 
 # [rafis lifeline](https://cdn.discordapp.com/attachments/1001333207276462112/1123305561107206154/rafis_lifeline_dt_w.osk?ex=660c41d3&is=65f9ccd3&hm=2e57f7dbce9e8400b2318127b3c5c6b115a2c66dfb983513ee966e9270bb10fc&)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019213295756/screenshot191.jpg?width=1202&height=676)
-[other hitsound version](https://cdn.discordapp.com/attachments/1001333207276462112/1123305562243862568/rafis_lifeline_toc_toc.osk)
+[other hitsound version](https://cdn.discordapp.com/attachments/1001333207276462112/1123305562243862568/rafis_lifeline_toc_toc.osk?ex=66157c54&is=66030754&hm=5f1a0fddeb730159b0a8a115f5bacbc5d71f61570fc3695c95d0b34aeb747013&)
 
 # [rafis lifeline blue cursor](https://cdn.discordapp.com/attachments/1001333207276462112/1123305560771674112/rafis_lifeline_dt_blue_cursor.osk?ex=660c41d3&is=65f9ccd3&hm=2d94d888357cea73282a92560e77559cfc9d811cb44e5c6c7146fdb00fbcb352&)![](https://media.discordapp.net/attachments/1001333207276462112/1123306019469152296/screenshot192.jpg?width=1202&height=676)
 
